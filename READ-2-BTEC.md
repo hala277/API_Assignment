@@ -31,7 +31,6 @@ key = `pk.dba98f11f1ab559ebe7f36c0b03e9610`
 
 *in my server i did use query its for search and MOVIE_API_KEY for the key and in this way I will look to movie and that what i did use in my server`https://api.themoviedb.org/3/search/movie?api_key=${MOVIE_API_KEY}&query=${query}`*
 
-
 ### 2.API Endpoints/Request URLs
 
 `https://api.themoviedb.org/3/search/movie?api_key=${MOVIE_API_KEY}&query=${query}`
