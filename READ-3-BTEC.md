@@ -49,18 +49,3 @@
 
  ![.env2](img/.env2.PNG)
  *here also we have to write every thing in capetal letter and when we call them in APP.js we have to add before them `process.env.` or its not going to work and we will have an error another thing that this file we have to add it to ignore because we cant send it to github or any where so no one can have our key or url same to .env from API server*
-
-## my code from github
-
-* [API SERVER City Explorer](https://github.com/hala277/city-explorer-api)
-
-* [City Explorer](https://github.com/hala277/city_explorer)
-
-* [netlify](https://city-explorerlab00.netlify.app/)
-
-* [herokuapp](https://city-explorer-api077.herokuapp.com/)
-
-* if you want to see the data of movies use this :
-[movies data](https://city-explorer-api077.herokuapp.com/getMovies?query=Amman)
-* and data of weather use this:
-[weather data](https://city-explorer-api077.herokuapp.com/getWeather?city=Amman)

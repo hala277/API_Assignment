@@ -68,3 +68,31 @@ key = `f05abe10b41e11666cd796b3522255e6`
 ### 3.Authentication Key
 
 key = `14f0d4e856674b01b84e102604cb999d`
+
+## my code from github
+
+* [API SERVER City Explorer](https://github.com/hala277/city-explorer-api)
+
+`https://github.com/hala277/city-explorer-api`
+
+* [City Explorer](https://github.com/hala277/city_explorer)
+
+`https://github.com/hala277/city_explorer`
+
+* [netlify](https://city-explorerlab00.netlify.app/)
+
+`https://city-explorerlab00.netlify.app/`
+
+* [herokuapp](https://city-explorer-api077.herokuapp.com/)
+
+`https://city-explorer-api077.herokuapp.com/`
+
+* if you want to see the data of movies use this :
+[movies data](https://city-explorer-api077.herokuapp.com/getMovies?query=Amman)
+
+`https://city-explorer-api077.herokuapp.com/getMovies?query=Amman`
+
+* and data of weather use this:
+[weather data](https://city-explorer-api077.herokuapp.com/getWeather?city=Amman)
+
+`https://city-explorer-api077.herokuapp.com/getWeather?city=Amman`
